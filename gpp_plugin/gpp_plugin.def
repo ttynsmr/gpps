@@ -1,0 +1,10 @@
+LIBRARY	"gpp_plugin"
+VERSION 1.0
+EXPORTS
+	GppCreate		@1
+	GppDraw			@2
+	GppInfo			@3
+	GppRelease		@4
+	GppStart		@5
+	GppStop			@6
+	GppWorkFrame	@7
